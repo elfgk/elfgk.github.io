@@ -1,10 +1,10 @@
 
 <h1 align="center">  Personal Website  𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
 
-<h1 align="center"> Learn about me and let's connect at me🧑‍💻: </h1>
+<h1 align="center"> Learn about me and let's connect at me🧑‍💻 </h1>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-elfgk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elfgk148@gmail.com)](mailto:elifgk148@gmail.com)
+[![Gmail](https://img.shields.io/badge/-elfgk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elfgk148@gmail.com)](mailto:elifgk148@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfgk/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
