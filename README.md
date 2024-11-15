@@ -1,5 +1,5 @@
-# Personal Website 
-<h1 align="center"> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
+
+<h1 align="center">  Personal Website  𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
 
 <h1> Learn about me and let's connect at me🧑‍💻: </h1>
 
